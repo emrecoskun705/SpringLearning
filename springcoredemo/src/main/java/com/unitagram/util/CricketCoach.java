@@ -1,4 +1,4 @@
-package com.unitagram.springcoredemo;
+package com.unitagram.util;
 
 import org.springframework.stereotype.Component;
 
